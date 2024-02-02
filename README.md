@@ -2,7 +2,7 @@
 Restful API With Web Application
 - This project is develop by visual studio 2019 with C#.
 
-- This project is using Microsoft.EntityFrameworkCore , Microsoft.EntityFrameworkCore.SqlServer and Framwework .NET5.0.
+- This project is using Microsoft.EntityFrameworkCore , Microsoft.EntityFrameworkCore.SqlServer and Framework .NET5.0.
   
 - This API is Connect with SQL Server.
 
