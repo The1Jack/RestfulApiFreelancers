@@ -1,10 +1,20 @@
 # RestfulApiFreelancers
 Restful API With Web Application
+- This project is develop by visual studio 2019 with C#.
+
+- This project is using Microsoft.EntityFrameworkCore , Microsoft.EntityFrameworkCore.SqlServer and Framwework .NET5.0.
+  
+- This API is Connect with SQL Server.
+
+- FreelancersAPI is the API to communicate with the database.
+
+- WebFreelanceUI is the web application consume the FreelancersAPI.
+
+ 
 
 ## Installation
-- This project is develop by visual studio 2019
   
-- This API is Connect with SQL Server
+- Way to install SQL Server
   
     -To download SQL Server , please go to https://www.microsoft.com/en-my/sql-server/sql-server-downloads
 
@@ -27,4 +37,5 @@ CREATE TABLE [dbo].[tbFreelancers](
 ) ON [PRIMARY] TEXTIMAGE_ON [PRIMARY]
 GO
 ```
-
+## License
+License by Microsoft
